@@ -1,20 +1,12 @@
-# nuxt-content-blog
+# Nuxt Content Blog
 
-## Build Setup
+Satic website builder from markdown files. Just write your article in markdown and routes and rendering will automatically be generated
+
+For more info, see tutorial https://florianbgt.github.io/blog/nuxt-content-blog
+
+## Usage
 
 ```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
+npm install
+npm run dev
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
